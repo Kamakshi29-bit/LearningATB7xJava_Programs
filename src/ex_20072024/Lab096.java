@@ -6,7 +6,10 @@ public class Lab096 {
         // not possible in same switch
         int a = 98;
         switch(a){
-            case
+            case 98:
+                System.out.println("Val - 98");
+           // case 98:
+             //   System.out.println("Val - 98");
         }
 
     }

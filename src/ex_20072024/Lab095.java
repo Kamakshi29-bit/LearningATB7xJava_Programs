@@ -10,5 +10,13 @@ public class Lab095 {
         //BOOLEAN - NOt possible
         //long - yes supported
         //
+        char ch = 'A';
+        switch(ch){
+
+        }
+        long  a11 = 30l;
+        switch ((int) a11){
+
+        }
     }
 }

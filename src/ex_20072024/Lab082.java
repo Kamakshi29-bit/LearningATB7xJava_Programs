@@ -11,11 +11,11 @@ public class Lab082 {
         // else{
         //}
         int age = 13;
-        if (age>18){
+        if (age>18)
             System.out.println("allowed to vote!!");
-        }
-        else {
+
+        else
             System.out.println("not allowed");
-        }
+
     }
 }

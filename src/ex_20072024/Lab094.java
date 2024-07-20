@@ -10,9 +10,9 @@ public class Lab094 {
         System.out.println("Enter char");
         char user_input = sc.next().charAt(0);
         switch(user_input){
-            case 'a','e','i', 'o', 'u' :
-                System.out.println("Vowel");
-                break;
+          //  case 'a','e','i', 'o', 'u' :
+             //   System.out.println("Vowel");
+//                break;
 
                 // new feature
             case 'e':
