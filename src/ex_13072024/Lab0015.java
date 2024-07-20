@@ -24,8 +24,8 @@ public class Lab0015 {
         //Non primitive Data Types
         //String name -> "pramod" -, number or char or bunch of char
         String name = "Pramod";
-        String name2 = "P";
-        char cc = 'c';
+        String name2 = "P"; //string ""
+         char cc = 'c';  //character ''
         //char s = "c"; not correct can't store string into a character
 
     }
