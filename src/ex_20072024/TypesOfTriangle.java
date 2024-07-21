@@ -20,4 +20,4 @@ public class TypesOfTriangle {
             System.out.println("Scalene Triangle");
         }
     }
-}12
+}
